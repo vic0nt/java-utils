@@ -1,1 +1,1 @@
-A little Java sandbox :)
+A little Java sandbox
